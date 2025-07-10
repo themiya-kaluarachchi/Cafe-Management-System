@@ -10,3 +10,15 @@ C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Test1\CafeManagementSystem\Caf
 C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Test1\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
 C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Test1\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe.config
 C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Test1\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.GuestOrder.resources
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe.config
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.GuestOrder.resources
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.Login.resources
