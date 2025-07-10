@@ -34,3 +34,4 @@ E:\Projects\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagement
 E:\Projects\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
 E:\Projects\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
 E:\Projects\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\MY FILES\Document\Acadamic\UOR CS\Projects\RAD\Project\Cafe-Management-System\CafeManagementSystem\obj\Debug\CafeManagementSystem.ItemForm.resources
