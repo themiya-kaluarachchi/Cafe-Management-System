@@ -29,7 +29,9 @@ namespace CafeManagementSystem
 
         private void guestLogin_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            GuestOrder guest = new GuestOrder();
+            guest.Show();
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -40,6 +42,13 @@ namespace CafeManagementSystem
         private void closeBtn_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void loginBtn_Click(object sender, EventArgs e)
+        {
+            UserOrder uorder = new UserOrder();
+            uorder.Show();
+            this.Hide();
         }
     }
 }
