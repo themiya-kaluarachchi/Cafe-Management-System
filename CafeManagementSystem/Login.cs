@@ -49,8 +49,11 @@ namespace CafeManagementSystem
             Application.Exit();
         }
 
+        public static string user;
         private void loginBtn_Click(object sender, EventArgs e)
         {
+            user = UnameTb.Text;
+
             if (UnameTb.Text == "" || PasswordTb.Text == "")
             {
                 MessageBox.Show("Enter A Username or Password");
